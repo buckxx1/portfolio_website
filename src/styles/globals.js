@@ -1,6 +1,8 @@
 import { createGlobalStyle } from 'styled-components';
 import { normalize } from 'styled-normalize';
 
+
+
 const GlobalStyles = createGlobalStyle`
   ${normalize};
 
@@ -31,7 +33,18 @@ const GlobalStyles = createGlobalStyle`
   li{
     list-style: none;
   }
+  ::-webkit-scrollbar{
+    background: #0F1624;
 
+  }
+  ::-webkit-scrollbar-track{
+    background: #212D45;
+  }
+
+  ::-webkit-scrollbar-thumb{
+    background-image: linear-gradient(180deg,#13ADC7 0%,#945DD6 100%);
+    border-radius: 25px;
+  }
 `;
 
 export default GlobalStyles;

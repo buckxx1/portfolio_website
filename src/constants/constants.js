@@ -1,46 +1,57 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: '<!Stuck>',
+    description: "The largest group project we did for our final The coding boot camp, is a full website for tech help. You have the ability to create accounts securly, post questions to the feed and receive feed back. In your account you will find all your posts and replies.",
+      image: '/images/unstuck-create-account.png',
+      tags: ['MongoDB', 'Express', 'React', 'Node'],
+    source: 'https://fast-beach-15102.herokuapp.com/',
+    visit: 'https://fast-beach-15102.herokuapp.com/',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Travel.map',
+    description:"This was a group project working with some fellow classmates of mine. Our goal was to create a website to checkout travel destinations and save them. This was was pretty early in my development as a dev but we were all quite hapopy with how it turned out.",
+    image: '/images/travel-map.png',
+    tags: ['HTML', 'JavaScript', 'API calls'],
+    source: 'https://github.com/khadra123/Travel.map',
+    visit: 'https://khadra123.github.io/Travel.map/' ,
     id: 1,
   },
   {
-    title: 'WebRTC App',
+    title: 'Forcast Master',
     description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      image: '/images/forcast-master.png',
+      tags: ['HTML', 'Javascript', 'API calls'],
+    source: 'https://github.com/buckxx1/Forcast_master',
+    visit: 'https://buckxx1.github.io/Forcast_master/',
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Daily Planner',
+    description: "A daily planner almost exclusivly using Javascript",
+    image: '/images/dailyplanner.png',
+    tags: ['HTML', 'Javascript'],
+    source: 'https://github.com/buckxx1/Daily_planner',
+    visit: 'https://buckxx1.github.io/Daily_planner/',
     id: 3,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  
+  { year: 2020, text: 'Started to dable in coding', },
+  { year: 2021, text: 'Went to school and found a real passion for web development', },
+  { year: 2022, text: 'Looking forward to becoming a true full stack dev', }
+];
+
+export const nicksprofile = [
+
+  {
+    title: 'nick',
+    description: "Profile image",
+      image: '/images/nickProfile.png',
+ 
+    id: 7,
+    
+  },
 ];
