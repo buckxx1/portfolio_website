@@ -12,14 +12,14 @@ import  { nicksprofile } from '../../constants/constants';
 
 const Hero = (props) => (
   <>
-    <Section row nopadding>
+    <Section row nopadding id="hero">
       <LeftSection>
         <SectionTitle main center>
           Welcome  <br />
           This Is My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        I am an aspiring full stack developer who graduated from the University of Toronto six month coding bootcamp in 2021. Here you will find examples of some of my past projects and what I am currently working on to expand my skills.
+        I am an aspiring full stack developer who graduated from the University of Toronto six months coding boot camp in 2021. Here you will find examples of some of my past projects and what I am currently working on to expand my skills.
         </SectionText>
         
      

@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: '<!Stuck>',
-    description: "The largest group project we did for our final The coding boot camp, is a full website for tech help. You have the ability to create accounts securly, post questions to the feed and receive feed back. In your account you will find all your posts and replies.",
+    description: "The largest group project we did for our final, is a full website for tech help. You have the ability to create accounts securely, post questions to the feed and receive feedback. In your account you will find all your posts and replies.",
       image: '/images/unstuck-create-account.png',
       tags: ['MongoDB', 'Express', 'React', 'Node'],
     source: 'https://fast-beach-15102.herokuapp.com/',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Travel.map',
-    description:"This was a group project working with some fellow classmates of mine. Our goal was to create a website to checkout travel destinations and save them. This was was pretty early in my development as a dev but we were all quite hapopy with how it turned out.",
+    description:"This was a group project working with some fellow classmates of mine. Our goal was to create a website to check out travel destinations and save them. This was was pretty early in my development as a dev but we were all quite happy with how it turned out.",
     image: '/images/travel-map.png',
     tags: ['HTML', 'JavaScript', 'API calls'],
     source: 'https://github.com/khadra123/Travel.map',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Daily Planner',
-    description: "A daily planner almost exclusivly using Javascript",
+    description: "A daily planner made almost exclusivly using Javascript",
     image: '/images/dailyplanner.png',
     tags: ['HTML', 'Javascript'],
     source: 'https://github.com/buckxx1/Daily_planner',
