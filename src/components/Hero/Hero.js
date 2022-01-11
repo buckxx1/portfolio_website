@@ -16,10 +16,10 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Welcome  <br />
-          This Is My Personal Portfolio
+          To My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        I am an aspiring full stack developer who graduated from the University of Toronto six months coding boot camp in 2021. Here you will find examples of some of my past projects and what I am currently working on to expand my skills.
+        I am an aspiring full stack developer who graduated from the University of Toronto six month coding boot camp in 2021. Here you will find examples of some of my past projects and what I am currently working on to expand my skills.
         </SectionText>
         
      
