@@ -37,7 +37,7 @@ const Artwork = () => (
                 <ArtPanel className="" style={{ backgroundImage: `url(../../images/myart/northernlights-1.jpg)` }} >
                     <ArtH3>Friends</ArtH3>
                 </ArtPanel>
-                <ArtPanel className="" style={{ backgroundImage: `url(../../images/myart/Perry-1.jpg)` }} >
+                <ArtPanel className="" style={{ backgroundImage: `url(../../images/myart/Perry-1.JPG)` }} >
                     <ArtH3>Katy Perry</ArtH3>
                 </ArtPanel>
                 <ArtPanel className="" style={{ backgroundImage: `url(../../images/myart/squamish-1.JPG)` }} >
