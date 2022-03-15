@@ -22,7 +22,7 @@ export const ArtPanel = styled.div`
   background-position: center;
   background-repeat: no-repeat;
   height: 80vh;
-  border-radius: 50px;
+  border-radius: 25px;
   color: #fff;
   cursor: pointer;
   flex: 0.5;
@@ -36,22 +36,7 @@ export const ArtPanel = styled.div`
 }
 `
 
-export const ArtPanelActive = styled.div`
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 80vh;
-  border-radius: 50px;
-  color: #fff;
-  cursor: pointer;
-  flex: 0.5;
-  margin: 10px;
-  z-index: 0;
-  position: relative;
-  transition: all 700ms ease-in;
-  
-}
-`
+
 
 export const ArtH3 = styled.h4`
     font-size: 24px;
@@ -60,17 +45,13 @@ export const ArtH3 = styled.h4`
     left: 20px;
     margin: 0;
     z-index: 2;
-    opacity: 0;  
+    opacity: 0;
+    transition: all 300ms ease-in;
+    &:hover {
+        opacity: 1;
+      }  
 `
 
-export const ArtH3Active = styled.h4`
-    font-size: 24px;
-    position: absolute;
-    bottom: 20px;
-    left: 20px;
-    margin: 0;
-    z-index: 2;
-    opacity: 0;  
-`
+
 
 

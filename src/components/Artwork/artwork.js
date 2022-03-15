@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import { ArtBody, ArtCon, ArtPanel, ArtH3, ArtPanelActive, ArtH3Active } from './artworkStyles.js';
+import { ArtBody, ArtCon, ArtPanel, ArtH3 } from './artworkStyles.js';
 
 
 
