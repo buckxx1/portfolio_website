@@ -50,7 +50,7 @@ export const TimeLineData = [
 
   { year: 2020, text: 'Started to dable in coding', },
   { year: 2021, text: 'Went to school and found a real passion for web development', },
-  { year: 2022, text: 'Looking forward to becoming a true full stack dev', }
+  { year: 2022, text: 'Honing my skills and looking forward to joining a team of experienced devs and learn from them', }
 ];
 
 export const nicksprofile = [
