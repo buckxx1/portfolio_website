@@ -27,15 +27,6 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Daily Planner',
-    description: "A daily planner made almost exclusivly using Javascript",
-    image: '/images/dailyplanner.png',
-    tags: ['HTML', 'Javascript'],
-    source: 'https://github.com/buckxx1/Daily_planner',
-    visit: 'https://buckxx1.github.io/Daily_planner/',
-    id: 3,
-  },
-  {
     title: 'Coeus Share',
     description: "This is a website made in cooperation with two other students from the university program that I attended. The website was built as a tech help blog, where users can sign up and post questions and topics and have discussions related to web development",
     image: '/images/dailyplanner.png',
