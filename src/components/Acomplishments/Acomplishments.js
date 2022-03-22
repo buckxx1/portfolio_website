@@ -4,7 +4,7 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { title: 'Diploma', text: 'University of Toronto'},
+  { title: 'Diploma', text: 'University of Toronto' },
   { title: '20+', text: 'Github Repositories', }
 ];
 
@@ -15,7 +15,7 @@ const Acomplishments = () => (
       {data.map((card, index) => (
         <Box key={index}>
           <BoxNum>{card.title}</BoxNum>
-      <BoxText>{card.text}</BoxText>
+          <BoxText>{card.text}</BoxText>
         </Box>
       ))}
     </Boxes>

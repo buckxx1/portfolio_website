@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://buckxx1.github.io/Daily_planner/',
     id: 3,
   },
+  {
+    title: 'Coeus Share',
+    description: "This is a website made in cooperation with two other students from the university program that I attended. The website was built as a tech help blog, where users can sign up and post questions and topics and have discussions related to web development",
+    image: '/images/dailyplanner.png',
+    tags: ['HTML', 'Javascript'],
+    source: 'https://github.com/ITJagraj/Tutor-app',
+    visit: 'https://coeus-share.herokuapp.com/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
