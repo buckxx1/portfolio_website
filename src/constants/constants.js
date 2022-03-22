@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Travel.map',
-    description: "This was a group project working with some fellow classmates of mine. Our goal was to create a website to check out travel destinations and save them. This was was pretty early in my development as a dev but we were all quite happy with how it turned out.",
-    image: '/images/travel-map.png',
-    tags: ['HTML', 'JavaScript', 'API calls'],
-    source: 'https://github.com/khadra123/Travel.map',
-    visit: 'https://khadra123.github.io/Travel.map/',
+    title: 'Wurdle',
+    description: "Wordle is a super popular game and I decided to do a copy of it to test my js and local storage skills. ",
+    image: '/images/wurdle.png',
+    tags: ['HTML', 'JavaScript', 'Local Storage'],
+    source: 'https://github.com/buckxx1/Wurdle',
+    visit: 'https://buckxx1.github.io/Wurdle/',
     id: 1,
   },
   {
