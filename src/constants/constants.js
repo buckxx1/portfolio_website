@@ -30,7 +30,7 @@ export const projects = [
     title: 'Coeus Share',
     description: "This is a website made in cooperation with two other students from the university program that I attended. The website was built as a tech help blog, where users can sign up and post questions and topics and have discussions related to web development",
     image: '/images/coeusshare.png',
-    tags: ['HTML', 'Javascript'],
+    tags: ['HTML', 'Javascript', 'Css', 'Databases'],
     source: 'https://github.com/ITJagraj/Tutor-app',
     visit: 'https://coeus-share.herokuapp.com/',
     id: 3,
