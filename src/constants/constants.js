@@ -49,7 +49,7 @@ export const nicksprofile = [
   {
     title: 'nick',
     description: "Profile image",
-    image: '/images/nickProfile.png',
+    image: '/images/nick.png',
 
     id: 7,
 
